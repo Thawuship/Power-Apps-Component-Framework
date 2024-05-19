@@ -1,0 +1,2 @@
+C:\Users\MohamedThawuship\Documents\PCF_Development\Text_Input\obj\Debug\Text_Input.pcfproj.AssemblyReference.cache
+C:\Users\MohamedThawuship\Documents\PCF_Development\Text_Input\obj\Debug\Text_Input.pcfproj.CoreCompileInputs.cache

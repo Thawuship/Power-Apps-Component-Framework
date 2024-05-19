@@ -1,0 +1,37 @@
+2024-05-20 00:13:38.489 - Info	
+Packing C:\Users\MohamedThawuship\Documents\PCF_Development\Text_Input\Solution\TextInputComponent\obj\Debug\Metadata to bin\Debug\TextInputComponent.zip and bin\Debug\TextInputComponent_managed.zip
+
+2024-05-20 00:13:38.504 - Info	Processing Component: Entities
+2024-05-20 00:13:38.514 - Info	Processing Component: Roles
+2024-05-20 00:13:38.520 - Info	Processing Component: Workflows
+2024-05-20 00:13:38.520 - Info	Processing Component: FieldSecurityProfiles
+2024-05-20 00:13:38.520 - Info	Processing Component: Templates
+2024-05-20 00:13:38.520 - Info	Processing Component: EntityMaps
+2024-05-20 00:13:38.520 - Info	Processing Component: EntityRelationships
+2024-05-20 00:13:38.520 - Info	Processing Component: OrganizationSettings
+2024-05-20 00:13:38.520 - Info	Processing Component: optionsets
+2024-05-20 00:13:38.520 - Info	Processing Component: CustomControls
+2024-05-20 00:13:38.536 - Info	 - TextInput.TextInputControl
+2024-05-20 00:13:38.536 - Info	Processing Component: SolutionPluginAssemblies
+2024-05-20 00:13:38.536 - Info	Processing Component: EntityDataProviders
+2024-05-20 00:13:38.551 - Info	Processing Sharded Component Files
+2024-05-20 00:13:38.599 - Info	
+Unmanaged Pack complete.
+
+2024-05-20 00:13:38.599 - Info	Processing Component: Entities
+2024-05-20 00:13:38.599 - Info	Processing Component: Roles
+2024-05-20 00:13:38.599 - Info	Processing Component: Workflows
+2024-05-20 00:13:38.599 - Info	Processing Component: FieldSecurityProfiles
+2024-05-20 00:13:38.599 - Info	Processing Component: Templates
+2024-05-20 00:13:38.599 - Info	Processing Component: EntityMaps
+2024-05-20 00:13:38.599 - Info	Processing Component: EntityRelationships
+2024-05-20 00:13:38.599 - Info	Processing Component: OrganizationSettings
+2024-05-20 00:13:38.599 - Info	Processing Component: optionsets
+2024-05-20 00:13:38.599 - Info	Processing Component: CustomControls
+2024-05-20 00:13:38.599 - Info	 - TextInput.TextInputControl
+2024-05-20 00:13:38.599 - Info	Processing Component: SolutionPluginAssemblies
+2024-05-20 00:13:38.614 - Info	Processing Component: EntityDataProviders
+2024-05-20 00:13:38.614 - Info	Processing Sharded Component Files
+2024-05-20 00:13:38.630 - Info	
+Managed Pack complete.
+

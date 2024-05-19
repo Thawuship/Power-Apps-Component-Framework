@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "//jUritvEjdGMC5QD1LtgL0v2NQi3Dul5sg0IYFlzg7BrPtb0ysGPIyPFr5Fr0xiH/tEGqoLpZcV/CLUzxp1Og==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\MohamedThawuship\\Documents\\PCF_Development\\Text_Input\\Solution\\TextInputComponent\\TextInputComponent.cdsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MohamedThawuship\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.0\\microsoft.netframework.referenceassemblies.1.0.0.nupkg.sha512",
+    "C:\\Users\\MohamedThawuship\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net462\\1.0.0\\microsoft.netframework.referenceassemblies.net462.1.0.0.nupkg.sha512",
+    "C:\\Users\\MohamedThawuship\\.nuget\\packages\\microsoft.powerapps.msbuild.pcf\\1.32.5\\microsoft.powerapps.msbuild.pcf.1.32.5.nupkg.sha512",
+    "C:\\Users\\MohamedThawuship\\.nuget\\packages\\microsoft.powerapps.msbuild.solution\\1.32.5\\microsoft.powerapps.msbuild.solution.1.32.5.nupkg.sha512"
+  ],
+  "logs": []
+}

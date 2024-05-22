@@ -1,0 +1,37 @@
+2024-05-22 16:40:58.625 - Info	
+Packing C:\Users\MohamedThawuship\Documents\PCF_Development\ButtonCallingPopup\Solution\btnCallPopupComponent\obj\Debug\Metadata to bin\Debug\btnCallPopupComponent.zip and bin\Debug\btnCallPopupComponent_managed.zip
+
+2024-05-22 16:40:58.641 - Info	Processing Component: Entities
+2024-05-22 16:40:58.657 - Info	Processing Component: Roles
+2024-05-22 16:40:58.657 - Info	Processing Component: Workflows
+2024-05-22 16:40:58.657 - Info	Processing Component: FieldSecurityProfiles
+2024-05-22 16:40:58.657 - Info	Processing Component: Templates
+2024-05-22 16:40:58.657 - Info	Processing Component: EntityMaps
+2024-05-22 16:40:58.657 - Info	Processing Component: EntityRelationships
+2024-05-22 16:40:58.657 - Info	Processing Component: OrganizationSettings
+2024-05-22 16:40:58.672 - Info	Processing Component: optionsets
+2024-05-22 16:40:58.672 - Info	Processing Component: CustomControls
+2024-05-22 16:40:58.672 - Info	 - btnCallPopup.btnCallPopupControl
+2024-05-22 16:40:58.688 - Info	Processing Component: SolutionPluginAssemblies
+2024-05-22 16:40:58.690 - Info	Processing Component: EntityDataProviders
+2024-05-22 16:40:58.704 - Info	Processing Sharded Component Files
+2024-05-22 16:40:58.740 - Info	
+Unmanaged Pack complete.
+
+2024-05-22 16:40:58.752 - Info	Processing Component: Entities
+2024-05-22 16:40:58.752 - Info	Processing Component: Roles
+2024-05-22 16:40:58.752 - Info	Processing Component: Workflows
+2024-05-22 16:40:58.752 - Info	Processing Component: FieldSecurityProfiles
+2024-05-22 16:40:58.752 - Info	Processing Component: Templates
+2024-05-22 16:40:58.752 - Info	Processing Component: EntityMaps
+2024-05-22 16:40:58.752 - Info	Processing Component: EntityRelationships
+2024-05-22 16:40:58.752 - Info	Processing Component: OrganizationSettings
+2024-05-22 16:40:58.752 - Info	Processing Component: optionsets
+2024-05-22 16:40:58.752 - Info	Processing Component: CustomControls
+2024-05-22 16:40:58.752 - Info	 - btnCallPopup.btnCallPopupControl
+2024-05-22 16:40:58.752 - Info	Processing Component: SolutionPluginAssemblies
+2024-05-22 16:40:58.752 - Info	Processing Component: EntityDataProviders
+2024-05-22 16:40:58.752 - Info	Processing Sharded Component Files
+2024-05-22 16:40:58.774 - Info	
+Managed Pack complete.
+

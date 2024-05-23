@@ -1,0 +1,2 @@
+C:\Users\MohamedThawuship\Documents\PCF_Development\CallwebAPI\obj\Debug\CallwebAPI.pcfproj.AssemblyReference.cache
+C:\Users\MohamedThawuship\Documents\PCF_Development\CallwebAPI\obj\Debug\CallwebAPI.pcfproj.CoreCompileInputs.cache

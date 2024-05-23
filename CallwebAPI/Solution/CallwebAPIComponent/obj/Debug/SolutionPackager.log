@@ -1,0 +1,74 @@
+2024-05-23 10:19:08.976 - Info	
+Packing C:\Users\MohamedThawuship\Documents\PCF_Development\CallwebAPI\Solution\CallwebAPIComponent\obj\Debug\Metadata to bin\Debug\CallwebAPIComponent.zip and bin\Debug\CallwebAPIComponent_managed.zip
+
+2024-05-23 10:19:09.026 - Info	Processing Component: Entities
+2024-05-23 10:19:09.035 - Info	Processing Component: Roles
+2024-05-23 10:19:09.042 - Info	Processing Component: Workflows
+2024-05-23 10:19:09.050 - Info	Processing Component: FieldSecurityProfiles
+2024-05-23 10:19:09.050 - Info	Processing Component: Templates
+2024-05-23 10:19:09.052 - Info	Processing Component: EntityMaps
+2024-05-23 10:19:09.057 - Info	Processing Component: EntityRelationships
+2024-05-23 10:19:09.063 - Info	Processing Component: OrganizationSettings
+2024-05-23 10:19:09.068 - Info	Processing Component: optionsets
+2024-05-23 10:19:09.069 - Info	Processing Component: CustomControls
+2024-05-23 10:19:09.085 - Info	 - callWebAPI.CallWebAPIcontrol
+2024-05-23 10:19:09.093 - Info	Processing Component: SolutionPluginAssemblies
+2024-05-23 10:19:09.102 - Info	Processing Component: EntityDataProviders
+2024-05-23 10:19:09.129 - Info	Processing Sharded Component Files
+2024-05-23 10:19:09.208 - Info	
+Unmanaged Pack complete.
+
+2024-05-23 10:19:09.209 - Info	Processing Component: Entities
+2024-05-23 10:19:09.212 - Info	Processing Component: Roles
+2024-05-23 10:19:09.212 - Info	Processing Component: Workflows
+2024-05-23 10:19:09.214 - Info	Processing Component: FieldSecurityProfiles
+2024-05-23 10:19:09.214 - Info	Processing Component: Templates
+2024-05-23 10:19:09.215 - Info	Processing Component: EntityMaps
+2024-05-23 10:19:09.216 - Info	Processing Component: EntityRelationships
+2024-05-23 10:19:09.218 - Info	Processing Component: OrganizationSettings
+2024-05-23 10:19:09.218 - Info	Processing Component: optionsets
+2024-05-23 10:19:09.219 - Info	Processing Component: CustomControls
+2024-05-23 10:19:09.223 - Info	 - callWebAPI.CallWebAPIcontrol
+2024-05-23 10:19:09.223 - Info	Processing Component: SolutionPluginAssemblies
+2024-05-23 10:19:09.223 - Info	Processing Component: EntityDataProviders
+2024-05-23 10:19:09.223 - Info	Processing Sharded Component Files
+2024-05-23 10:19:09.240 - Info	
+Managed Pack complete.
+
+2024-05-23 10:21:41.704 - Info	
+Packing C:\Users\MohamedThawuship\Documents\PCF_Development\CallwebAPI\Solution\CallwebAPIComponent\obj\Debug\Metadata to bin\Debug\CallwebAPIComponent.zip and bin\Debug\CallwebAPIComponent_managed.zip
+
+2024-05-23 10:21:41.751 - Info	Processing Component: Entities
+2024-05-23 10:21:41.751 - Info	Processing Component: Roles
+2024-05-23 10:21:41.772 - Info	Processing Component: Workflows
+2024-05-23 10:21:41.772 - Info	Processing Component: FieldSecurityProfiles
+2024-05-23 10:21:41.772 - Info	Processing Component: Templates
+2024-05-23 10:21:41.772 - Info	Processing Component: EntityMaps
+2024-05-23 10:21:41.772 - Info	Processing Component: EntityRelationships
+2024-05-23 10:21:41.783 - Info	Processing Component: OrganizationSettings
+2024-05-23 10:21:41.783 - Info	Processing Component: optionsets
+2024-05-23 10:21:41.792 - Info	Processing Component: CustomControls
+2024-05-23 10:21:41.805 - Info	 - callWebAPI.CallWebAPIcontrol
+2024-05-23 10:21:41.816 - Info	Processing Component: SolutionPluginAssemblies
+2024-05-23 10:21:41.816 - Info	Processing Component: EntityDataProviders
+2024-05-23 10:21:41.845 - Info	Processing Sharded Component Files
+2024-05-23 10:21:41.914 - Info	
+Unmanaged Pack complete.
+
+2024-05-23 10:21:41.914 - Info	Processing Component: Entities
+2024-05-23 10:21:41.914 - Info	Processing Component: Roles
+2024-05-23 10:21:41.924 - Info	Processing Component: Workflows
+2024-05-23 10:21:41.924 - Info	Processing Component: FieldSecurityProfiles
+2024-05-23 10:21:41.924 - Info	Processing Component: Templates
+2024-05-23 10:21:41.924 - Info	Processing Component: EntityMaps
+2024-05-23 10:21:41.924 - Info	Processing Component: EntityRelationships
+2024-05-23 10:21:41.924 - Info	Processing Component: OrganizationSettings
+2024-05-23 10:21:41.924 - Info	Processing Component: optionsets
+2024-05-23 10:21:41.924 - Info	Processing Component: CustomControls
+2024-05-23 10:21:41.924 - Info	 - callWebAPI.CallWebAPIcontrol
+2024-05-23 10:21:41.924 - Info	Processing Component: SolutionPluginAssemblies
+2024-05-23 10:21:41.940 - Info	Processing Component: EntityDataProviders
+2024-05-23 10:21:41.941 - Info	Processing Sharded Component Files
+2024-05-23 10:21:41.941 - Info	
+Managed Pack complete.
+
